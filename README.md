@@ -1,7 +1,7 @@
-https://www.canva.com/design/DAFp3fV3K-Q/wQCZeYLih7xNvATSexp6TQ/view?utm_content=DAFp3fV3K-Q&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
+![John's GitHub Banner]([https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc](https://www.canva.com/design/DAFp3fV3K-Q/-BarVqG5wiXQeuh4z4OK1Q/edit?utm_content=DAFp3fV3K-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 <h1 align="center">Hello 👋, I'm John obiko</h1>
 <h3 align="center">I am an Expert Freelance Graphic and Web Designer based in Nairobi, Kenya. With over 6 years of experience in the field, I am passionate about creating stunning visual experiences for clients from all around the world.</h3>
-<img src="https://komarev.com/ghpvc/?username=byu-pro&label=Profile%20views&color=0e75b6&style=flat" alt="byu-pro" /> </p>
+
 
 - 🌱 I’m currently learning **I am currently learning about programming and all it entails. This includes studying various programming languages such as Python, Java, C++, and more. I'm also gaining knowledge in data structures, algorithms, software development methodologies, and best practices in coding. Additionally, I'm exploring areas like web development, mobile app development, and database management. Overall, I'm acquiring the foundational skills and concepts necessary to become a proficient programmer and software developer.**
 
