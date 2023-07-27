@@ -1,8 +1,7 @@
-![Banner](paste_the_direct_image_url_here)
-
 <h1 align="center">Hello 👋, I'm John obiko</h1>
 <h3 align="center">I am an Expert Freelance Graphic and Web Designer based in Nairobi, Kenya. With over 6 years of experience in the field, I am passionate about creating stunning visual experiences for clients from all around the world.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=byu-pro&label=Profile%20views&color=0e75b6&style=flat" alt="byu-pro" /> </p>
 
 - 🌱 I’m currently learning **I am currently learning about programming and all it entails. This includes studying various programming languages such as Python, Java, C++, and more. I'm also gaining knowledge in data structures, algorithms, software development methodologies, and best practices in coding. Additionally, I'm exploring areas like web development, mobile app development, and database management. Overall, I'm acquiring the foundational skills and concepts necessary to become a proficient programmer and software developer.**
 
