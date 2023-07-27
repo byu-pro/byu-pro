@@ -1,4 +1,4 @@
-![Banner]([paste_the_direct_image_url_here](https://raw.githubusercontent.com/byu-pro/byu-pro/main/John%20obiko%20github%20banner.png))
+![Banner](paste_the_direct_image_url_here)
 
 <h1 align="center">Hello 👋, I'm John obiko</h1>
 <h3 align="center">I am an Expert Freelance Graphic and Web Designer based in Nairobi, Kenya. With over 6 years of experience in the field, I am passionate about creating stunning visual experiences for clients from all around the world.</h3>
