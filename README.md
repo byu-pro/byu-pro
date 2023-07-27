@@ -1,4 +1,5 @@
-![John's GitHub Banner]([https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc](https://www.canva.com/design/DAFp3fV3K-Q/-BarVqG5wiXQeuh4z4OK1Q/edit?utm_content=DAFp3fV3K-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+[![Banner](https://www.canva.com/design/DAFp3fV3K-Q/-BarVqG5wiXQeuh4z4OK1Q/edit?utm_content=DAFp3fV3K-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAFp3fV3K-Q/-BarVqG5wiXQeuh4z4OK1Q/edit?utm_content=DAFp3fV3K-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 <h1 align="center">Hello 👋, I'm John obiko</h1>
 <h3 align="center">I am an Expert Freelance Graphic and Web Designer based in Nairobi, Kenya. With over 6 years of experience in the field, I am passionate about creating stunning visual experiences for clients from all around the world.</h3>
 
